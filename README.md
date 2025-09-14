@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisarg</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg2027&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg2027" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisarg2027" alt="nisarg2027" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [SachAI](https://github.com/1MaNan071/SachAI)
 
 - 👯 I’m looking to collaborate on [RailwaySimulator](https://github.com/ojasvagr123/indore-ai-rail-sim)
@@ -28,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisarg2027&show_icons=true&locale=en&layout=compact" alt="nisarg2027" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisarg2027&show_icons=true&locale=en" alt="nisarg2027" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisarg2027&" alt="nisarg2027" /></p>
